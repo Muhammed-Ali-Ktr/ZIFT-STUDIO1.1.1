@@ -1,0 +1,35 @@
+{
+  "records": [
+    {
+      "id": "Zt_CX8VEign1GDIEuoEPZ",
+      "subject": "Matematik",
+      "topic": "fonksiyon",
+      "minutes": 50,
+      "date": "2025-10-07",
+      "note": ""
+    },
+    {
+      "id": "dFPc0PFigFavBF8ysqMkO",
+      "subject": "Kimya",
+      "topic": "Mol Kavramı",
+      "minutes": 45,
+      "date": "2025-10-07",
+      "note": ""
+    }
+  ],
+  "plans": [],
+  "events": [],
+  "profile": {
+    "theme": "dark",
+    "background": "none",
+    "hiddenWidgets": [],
+    "widgetOrder": [
+      "stats",
+      "records",
+      "planner",
+      "calendar",
+      "pomodoro"
+    ],
+    "layout": "one"
+  }
+}
